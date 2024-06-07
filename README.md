@@ -1,4 +1,4 @@
-Description :
+Description :   
       This project is a React application that dynamically reproduces a user interface for displaying price cards. Each price card contains information about different pricing plans, including features and prices. The application is built using React and JSX to create a dynamic and responsive UI. 
 
 Features :
@@ -15,7 +15,7 @@ Features :
    - *JSX*: For templating in React.
    - *CSS*: For styling the application.
 
-License :
+License :   
    This project is licensed under the MIT License.
 
 Additional Documentation :
